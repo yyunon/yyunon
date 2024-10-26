@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Yuksel, just your neighbourly software engineer.
+
+🔭 I spend majority of my time creating software that pipelines data,
+and the most of my free time writing software on new frameworks/frameworks that are new to me.
 
 <!--
 **yyunon/yyunon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
