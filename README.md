@@ -42,6 +42,4 @@ more guidance, do check out my [website](https://yukselyonsel.com/), I try to ex
 <a href="mailto:yonsel.yuksel@gmail.com">
   <img align="left" width="25px" src="https://cdn.simpleicons.org/gmail" />
 </a>
-<a href="https://yukselyonsel.com">
-  <img align="left" width="30px" src="https://github.com/yyunon.png" />
-</a>
+
