@@ -37,7 +37,7 @@ more guidance, do check out my [website](https://yukselyonsel.com/), I try to ex
 
 ### Get in touch
 <a href="https://www.linkedin.com/in/yukselyonsel/">
-  <img align="left" width="25px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="left" width="25px" src="https://s.magecdn.com/social/tc-linkedin.svg"  />
 </a>
 <a href="mailto:yonsel.yuksel@gmail.com">
   <img align="left" width="25px" src="https://cdn.simpleicons.org/gmail" />
