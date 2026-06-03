@@ -35,9 +35,6 @@ more guidance, do check out my [website](https://yukselyonsel.com/), I try to ex
 ![](https://img.shields.io/badge/Tools-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)
 
 
-### &#x1f4c8; GitHub Stats
-[![Top Langs (Excluded Makefiles, Build files, and fortran :) )](https://github-readme-stats.vercel.app/api/top-langs/?username=yyunon&size_weight=0.5&count_weight=0.5&langs_count=10&hide_progress=true&hide=systemverilog,V,fortran,Makefile,tcl,shell)](https://github.com/yyunon/github-readme-stats)
-
 ### Get in touch
 <a href="https://www.linkedin.com/in/yukselyonsel/">
   <img align="left" width="25px" src="https://cdn.simpleicons.org/linkedin"  />
